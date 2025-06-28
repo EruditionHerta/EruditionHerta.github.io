@@ -24,10 +24,10 @@ author:
   # Biographic information
   avatar           : "SilverWolf.png"
   name             : "智小骇 | EruditionHerta"
-  pronouns         : "He/His"  
-  bio              : "理性之上，游戏人生，以骇客精神探索未知"
+  pronouns         : # "He/His"  
+  bio              : "理性至上，游戏人生，以骇客精神探索未知"
   location         : "中国/北京 | China/Beijing"
-  employer         : "中央民族大学 | Minzu University of China"
+  employer         : "中央民族大学(MUC)"
   uri              : # URL
   email            : "ljw_erudition@muc.edu.cn" 
 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -132,7 +132,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : # &twitter
 facebook:
   username               :
   app_id                 :
