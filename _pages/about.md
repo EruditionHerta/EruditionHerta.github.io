@@ -1,26 +1,46 @@
----
-permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
+# 👋 你好，欢迎来到我的数字空间
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+## 关于我 | About Me
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+我是 [智小骇]，一名坐标北京的「学术骇客」。
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+目前是中央民族大学（MUC）2023级统计学专业的本科生。不过，我更喜欢将自己定义为一个终身学习者和问题解决者。于我而言，统计学是理解世界不确定性的精妙语言，而代码则是将想法变为现实的魔法画笔。
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your Markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the Markdown files! You can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+我着迷于在数据、算法和模型之间寻找规律与洞见，并致力于探索**数据科学**、**深度学习**和**计算机编程**等领域。我相信，用技术驱动的好奇心，可以为世界带来一点点正向的改变。
 
-For those users that need more advanced functionality, the template also supports the following popular tools:
-- [MathJax](https://www.mathjax.org/) for mathematical equations
-- [Mermaid](https://mermaid.js.org/) for diagraming
-- [Plotly](https://plotly.com/javascript/) for plotting
+这个小站是我记录学习、分享思考和展示项目的地方。希望我们能在这里相互启发，共同成长。
+
+## 🚀 学术探索 | Academic & Skills
+
+我的知识体系构建在数学的坚实基础上，并不断向计算机科学领域延伸。
+
+- **主修专业:** 统计学 @ 中央民族大学 (2023 - 至今)
+- **主攻领域:**
+    - **数据科学:** 热衷于从海量数据中挖掘价值，探索其背后的商业与社会意义。
+    - **深度学习:** 关注计算机视觉（CV）与生物信息学（Bioinformatics）的最新进展，对构建智能模型充满热情。
+    - **计算机编程:** 享受用代码创造工具、解决复杂问题的过程。
+    - **数学:** 痴迷于概率论、线性代数和微积分中的逻辑之美。
+
+- **我的工具箱 (Toolbox):**
+    - **编程语言:** Python, R, SQL
+    - **框架与库:** Scikit-learn, TensorFlow, PyTorch, Pandas, NumPy
+    - **其他工具:** Git, LaTeX, Generative AI
+ 
+## 🎮 代码之外 | Beyond the Code
+
+当我不与数据和算法为伴时，生活同样多姿多彩。
+
+- **🏀 篮球是我的热爱之一。** 我是NBA金州勇士队的铁杆球迷，斯蒂芬·库里（Stephen Curry）是我心目中永远的MVP。他用三分球改变了篮球时代，这何尝不是一种“骇客精神”？
+
+- **🧱 我是MC玩家。** 偶尔，我会在《我的世界》（Minecraft）里化身“创世神”，用一个个方块搭建属于自己的世界。那里是我的精神角落，能让创造力自由驰骋。
+
+- **🎬 我也看番。** 在安静的时刻，一些~~抽象~~优秀的动漫作品能给我带来慰藉与思考。最近在追或很喜欢的有：
+    - 《迷途之子》
+    - 《孤独摇滚》
+    - 《间谍过家家》
+    - 《灵笼》
+
+- **🕹️ 我也是《原神》和《崩坏·星穹铁道》的忠实玩家。** 喜欢原神中的**温迪**、**芙宁娜**、**队长**、**博士**；崩铁中最喜欢的角色是**银狼**、**乱破**、**螺丝咕姆**、**黑塔**、**阮·梅**。
 
 Getting started
 ======
