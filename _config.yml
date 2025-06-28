@@ -39,7 +39,7 @@ author:
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
+  researchgate     : "https://www.researchgate.net/profile/Jiawei-Li-149"
   scopus           : # URL
 
   # Repositories and software development
@@ -47,7 +47,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "EruditionHerta"
-  kaggle           : "EruditionHerta"
+  kaggle           : "erudition42"
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
