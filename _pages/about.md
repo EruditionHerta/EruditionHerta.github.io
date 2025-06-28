@@ -1,3 +1,12 @@
+---
+- permalink: /
+- title: ""
+- author_profile: true
+- redirect_from: 
+  - /about/
+  - /about.html
+---
+
 # 👋 你好，欢迎来到我的数字空间
 
 ## 关于我 | About Me
