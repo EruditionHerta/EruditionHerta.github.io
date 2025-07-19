@@ -49,9 +49,17 @@ redirect_from:
     - 《间谍过家家》
     - 《灵笼》
 
-- **🕹️ 我也是《原神》和《崩坏·星穹铁道》的忠实玩家。** 喜欢原神中的**温迪**、**芙宁娜**、**队长**、**博士**；崩铁中最喜欢的角色是**银狼**、**乱破**、**螺丝咕姆**、**黑塔**、**阮·梅**。
+- **🕹️ 我也是《崩坏·星穹铁道》的忠实玩家。** 崩铁中最喜欢的角色是**银狼**、**乱破**、**螺丝咕姆**、**黑塔**、**阮·梅**。欢迎和我一起讨论相关剧情和二创作品！
 
-Getting started
+## 📫 我的联系方式 | Find Me
+
+**email1：** m18635213634@163.com
+**email2：** hertajoy42@gmail.com
+**Github：** https://www.github.com/EruditionHerta
+**Kaggle：** https://www.kaggle.com/erudition42
+**知乎：** https://www.zhihu.com/people/eruditionherta
+
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -83,3 +91,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-- >
