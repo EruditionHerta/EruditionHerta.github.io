@@ -54,10 +54,15 @@ redirect_from:
 ## 📫 我的联系方式 | Find Me
 
 **email1：** m18635213634@163.com
+
 **email2：** hertajoy42@gmail.com
+
 **Github：** https://www.github.com/EruditionHerta
+
 **Kaggle：** https://www.kaggle.com/erudition42
+
 **知乎：** https://www.zhihu.com/people/eruditionherta
+
 
 <!-- Getting started
 ======
